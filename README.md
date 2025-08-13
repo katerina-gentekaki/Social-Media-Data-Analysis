@@ -29,6 +29,6 @@ This project analyzes a simulated social media dataset (e.g., tweets) to identif
    - Bar plot of Average Likes per Category  
 
 ## 📈 Key Insights
--The histogram shows likes are evenly distributed, with no heavy skew toward extremes.
--The boxplot highlights that Food and Music have slightly higher medians, while Health posts have the lowest median but wide variability.
--The bar plot confirms Food has the highest average likes, followed by Music and Fitness, with Health trailing behind — suggesting room for content optimization.
+- The histogram shows likes are evenly distributed, with no heavy skew toward extremes. 
+- The boxplot highlights that Food and Music have slightly higher medians, while Health posts have the lowest median but wide variability. 
+- The bar plot confirms Food has the highest average likes, followed by Music and Fitness, with Health trailing behind — suggesting room for content optimization.
